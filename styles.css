@@ -1,0 +1,24 @@
+h1,
+h2,
+p {
+  font-family: Helvetica, sans-serif;
+}
+header h1 {
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url(./resources/pattern.jpeg);
+}
+
+.brushes h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.subtitle {
+  font-size: 22px;
+}
+
