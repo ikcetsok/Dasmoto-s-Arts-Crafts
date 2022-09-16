@@ -11,14 +11,25 @@ header h1 {
   background-image: url(./resources/pattern.jpeg);
 }
 
-.brushes h2 {
+span {
+  font-weight: bold;
+  color: blue;
+}
+
+.sectionTitle {
   font-size: 32px;
   font-weight: bold;
   color: white;
-  background-color: mediumspringgreen;
 }
 
 .subtitle {
   font-size: 22px;
 }
 
+#Brushes {
+  background-color: mediumspringgreen;
+}
+
+#Frames {
+  background-color: lightcoral;
+}
